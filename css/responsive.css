@@ -1,0 +1,58 @@
+@media (max-width:958px){
+    section.sessao1{
+        width: auto;
+        padding: 40px 2%;
+    }
+
+    .device-sessao1{
+        display: none;
+    }
+}
+
+@media (max-width:768px){
+
+    header{
+        height: auto;
+        min-height: 70vh;
+    }
+
+    .text-sessao1{
+        margin-top: 0;
+        position: static;
+        float: none;
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+    }
+
+    nav.mobile-menu{
+        display: block;
+    }
+
+    nav.desktop-menu{
+        display: none;
+    }
+
+    .btn-text{
+        display: inline-block;
+    }
+
+    .text-sessao1 ul{
+        display: inline-block;
+    }
+
+    .text-sessao1 ul li{
+        text-align: left;
+       float: none;
+    }
+
+        .chamada1{
+        text-align: center;
+            float: none;
+        }
+}
+
+@media (max-width:600px){
+ 
+}
+
