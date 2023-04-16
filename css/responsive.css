@@ -52,7 +52,14 @@
         }
 }
 
-@media (max-width:600px){
- 
+@media (max-width: 580px){
+
+    .section-left{
+        width: 100%;
+    }
+
+    .section-right{
+        width: 100%;
+    }
 }
 
