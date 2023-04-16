@@ -1,0 +1,43 @@
+
+.author-text{
+    float: left;
+    width: 100%;
+    margin-top: 6px;
+}
+
+.info-author h2{
+    font-weight: 300;
+    color: rgb(34, 0, 34);
+}
+
+.info-author p{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    color:  rgb(34, 0, 34);
+}
+.author-text p{
+    font-size: 15px;
+    color: rgb(34, 0, 34) ;
+}
+
+.slider-btn{
+    width: 100%;
+    float: left;
+    padding-left: 30px;
+    margin-top: 12px;
+}
+
+.slider-btn btn{
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin-right: 8px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: gold;
+}
+
+.botao.selecionado{
+    background-color: black;
+}
