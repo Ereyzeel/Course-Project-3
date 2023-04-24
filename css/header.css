@@ -3,7 +3,7 @@ header{
     height: 90vh;
     min-height: 800px;
     padding: 40px 5%;
-    max-height: 700px;
+    /* max-height: 700px; */
     background-size: cover;
     background-position: center;
     background-image: url(../images/header_bg.png);
@@ -63,12 +63,14 @@ header nav.desktop-menu li{
     padding: 0 20px;
 }
 
-header nav.desktop-menu a{
+header nav.desktop-menu li a{
     text-decoration: none;
     color: white;
 }
 
 .logo{
+    position: relative;
+    top: 6px;
     background-image: url(../images/logo.png);
     background-repeat: no-repeat;
     width: 170px;
