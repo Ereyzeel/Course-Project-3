@@ -64,15 +64,15 @@
 }
 
 .slider-btn span{
-    width: 10px;
-    height: 10px;
+    width: 14px;
+    height: 14px;
     float: left;
     margin-right: 8px;
     cursor: pointer;
-    border-radius: 5px;
-    background-color: gold;
+    border-radius: 7px;
+    background-color: rgb(161, 89, 221);
 }
 
 .botao.selecionado{
-    background-color: black;
+    background-color: rgb(55, 8, 94);
 }

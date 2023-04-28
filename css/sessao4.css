@@ -32,14 +32,14 @@ section.sessao4{
     height: 58px;
     padding-left: 8px;
     line-height: 58px;
-    border: 1px solid gold;
+    border: 1px solid rgb(120, 0, 145);
 }
 
 .form form textarea{
     width: 90%;
     max-width: 480px;
     padding: 15px;
-    border: 1px solid gold;
+    border: 1px solid rgb(120, 0, 145);
     height: 160px;
     margin-top: 8px;
 }
@@ -91,5 +91,5 @@ section.sessao4{
     height: 100%;
     margin-top: 10px;
     background-color: white;
-    border: 5px solid gold ;
+    border: 5px solid rgb(60, 0, 73) ;
 }
