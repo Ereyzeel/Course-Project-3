@@ -26,11 +26,12 @@
         height: auto;
     }
     
-    .text-section1{
+    .text-sessao1{
         margin-top: 0;
         position: static;
         float: none;
         width: 100%;
+        margin: 0 auto;
     }
 
     .text-sessao1 ul{
